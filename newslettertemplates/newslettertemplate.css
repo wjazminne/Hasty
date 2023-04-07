@@ -1,0 +1,12 @@
+.news-template-trash {
+  color: red;
+  size: 25px;
+}
+.news-template-card {
+  display: flex;
+  transition: transform 450ms;
+}
+.news-template-images {
+  height: 325px;
+  width: 282px;
+}
